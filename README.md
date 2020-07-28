@@ -1,0 +1,2 @@
+# Pareto
+Examples of Pareto
